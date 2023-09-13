@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Khameel Mustapha
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Khameel
-last_name: Mustapha
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Mechanical Engineering
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Nottingham Malaysia
+  - name: Stanford University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests materials.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Mechanics
-  - Materials
-  - 3D Printing
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in ME
-      institution: NTU
-      year: 2013
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Khameel Mustapha is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
