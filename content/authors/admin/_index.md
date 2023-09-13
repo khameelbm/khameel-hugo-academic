@@ -22,20 +22,20 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests materials.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mechanics
+  - Materials
+  - 3D Printing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in ME
+      institution: NTU
+      year: 2013
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
