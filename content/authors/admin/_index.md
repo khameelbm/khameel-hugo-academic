@@ -22,7 +22,7 @@ organizations:
     url: https://www.nottingham.edu.my/index.aspx
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational mechanics, advanced structural materials (lightweight composite materials), advanced functional materials (e.g., thermoelectric/piezoelectric materials), and applied machine learning. 
 
 # Interests to show in About widget
 interests:
@@ -59,16 +59,16 @@ social:
     link: https://scholar.google.com/citations?user=P8kaM2UAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/khameelbm
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
