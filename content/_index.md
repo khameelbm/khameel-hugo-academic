@@ -172,7 +172,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Get in touch.
       # Contact (add or remove contact options as necessary)
       email: kedzkbt[at]nottingham[dot]edu[dot]my
       phone: +60 3 8924 8306
@@ -210,7 +210,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
