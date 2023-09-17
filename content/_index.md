@@ -40,21 +40,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Associate Professor 
-          company: University of Nottingham Malaysia
-          company_url: 'https://www.nottingham.edu.my/index.aspx'
-          company_logo: org-GC
-          location: Malaysia
-          date_start: '2016-01-16'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Convene and contribute to modules on solid mechanics, stress analysis techniques, computer modelling techniques, etc.
-              *  Developed and delivered curricular learning programs at both undergraduate and postgraduate levels
-              * Senior Admissions tutor
-        - title: Professor of Semiconductor Materials
-          company: University XY
+              * Designing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
           location: California
@@ -105,7 +105,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Sayings
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
