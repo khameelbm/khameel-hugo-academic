@@ -53,10 +53,10 @@ sections:
               * Convene and contribute to modules on solid mechanics, stress analysis techniques, computer modelling techniques, etc.
               *  Developed and delivered curricular learning programs at both undergraduate and postgraduate levels
               * Senior Admissions tutor
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Professor of Semiconductor Materials
+          company: University XY
           company_url: ''
-          company_logo: org-x
+          company_logo: org-xy
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
