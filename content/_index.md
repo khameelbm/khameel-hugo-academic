@@ -40,9 +40,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Associate Professor
+        - title: Associate Professor 
           company: University of Nottingham Malaysia
-          company_url: ''
+          company_url: 'https://www.nottingham.edu.my/index.aspx'
           company_logo: org-UNM
           location: Malaysia
           date_start: '2016-01-16'
