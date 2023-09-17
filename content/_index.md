@@ -43,7 +43,7 @@ sections:
         - title: Associate Professor 
           company: University of Nottingham Malaysia
           company_url: 'https://www.nottingham.edu.my/index.aspx'
-          company_logo: org-UNM
+          company_logo: org-GC
           location: Malaysia
           date_start: '2016-01-16'
           date_end: ''
@@ -56,7 +56,7 @@ sections:
         - title: Professor of Semiconductor Materials
           company: University XY
           company_url: ''
-          company_logo: org-xy
+          company_logo: org-x
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
