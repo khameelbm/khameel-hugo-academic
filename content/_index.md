@@ -30,7 +30,7 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Academic Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -48,27 +48,24 @@ sections:
           date_start: '2016-01-19'
           date_end: ''
           description: |2-
-            I am the convener for the following modules: 
+            I am the convener/contributors to the following modules: 
 
               * Mechanics of Solids (Year 2 - Core)
               * Computer Modelling Techniques (Year 3 - Core)
               * Stress Analysis Techniques (Senior UG - optional) 
-
-            I have also been involved with the following modules:
-
               *  Engineering Design and Design Project (Year 1)
               *  Design, Manufacture & Project (Year 2)
               *  Additive Manufacturing & 3D Printing (Senior UG)
 
 
-        - title: Professor of Semiconductor Materials
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Lecturer 
+          company: Swinburne University of Technology Sarawak
+          company_url: 'https://www.swinburne.edu.my/'
+          company_logo: org-suts
+          location: Malaysia
+          date_start: '2013-03-01'
+          date_end: '2015-12-15'
+          # description: Taught electronic engineering and researched semiconductor physics.
  
     design:
       columns: '2'
