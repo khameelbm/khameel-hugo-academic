@@ -45,10 +45,10 @@ sections:
           company_url: 'https://www.nottingham.edu.my/index.aspx'
           company_logo: org-unm
           location: Malaysia
-          date_start: '2016-01-19'
+          date_start: '2020-01-01'
           date_end: ''
           description: |2-
-            I am the convener/contributors to the following modules: 
+            Convener/contributors to the following modules: 
 
               * Mechanics of Solids (Year 2 - Core)
               * Computer Modelling Techniques (Year 3 - Core)
@@ -57,6 +57,13 @@ sections:
               *  Design, Manufacture & Project (Year 2)
               *  Additive Manufacturing & 3D Printing (Senior UG)
 
+        - title: Assistant Professor
+          company: University of Nottingham Malaysia
+          company_url: 'https://www.nottingham.edu.my/index.aspx'
+          company_logo: org-unm
+          location: Malaysia
+          date_start: '2016-01-19'
+          date_end: '2020-01-01'  
 
         - title: Lecturer 
           company: Swinburne University of Technology Sarawak
