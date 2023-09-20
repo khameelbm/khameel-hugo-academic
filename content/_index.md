@@ -48,12 +48,13 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Convener:
-              * Mechanics of Solids
-              * Computer Modelling Techniques
-              * Stress Analysis Techniques
+            I am the convener for the following modules
 
-              I have also been involved with the following modules:
+              * Mechanics of Solids (Year 2 - Core)
+              * Computer Modelling Techniques (Year 3 - Core)
+              * Stress Analysis Techniques (Senior UG - optional)
+
+            I have also been involved with the following modules:
 
               *  Engineering Design and Design Project (Year 1)
               *  Design, Manufacture & Project (Year 2)
