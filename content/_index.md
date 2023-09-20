@@ -30,7 +30,7 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Current Position
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -43,16 +43,16 @@ sections:
         - title: Associate Professor
           company: University of Nottingham Malaysia
           company_url: 'https://www.nottingham.edu.my/index.aspx'
-          company_logo: org-gc
+          company_logo: org-UNM
           location: Malaysia
-          # date_start: '2016-01-16'
-          # date_end: ''
-          # description: |2-
-          #     Responsibilities include:
+          date_start: '2016-01-16'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
-          #     * Designing
-          #     * Modelling
-          #     * Deploying
+              * Designing
+              * Modelling
+              * Deploying
         - title: Professor of Semiconductor Materials
           company: University X
           company_url: ''
