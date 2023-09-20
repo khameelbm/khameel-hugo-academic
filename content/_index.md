@@ -43,7 +43,7 @@ sections:
         - title: Associate Professor
           company: University of Nottingham Malaysia
           company_url: 'https://www.nottingham.edu.my/index.aspx'
-          company_logo: org-unm
+          company_logo: org-gc
           location: Malaysia
           # date_start: '2016-01-16'
           # date_end: ''
