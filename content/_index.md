@@ -45,7 +45,7 @@ sections:
           company_url: 'https://www.nottingham.edu.my/index.aspx'
           company_logo: org-unm
           location: Malaysia
-          date_start: '2016'
+          date_start: '2016-01-19'
           date_end: ''
           description: |2-
             I am the convener for the following modules: 
