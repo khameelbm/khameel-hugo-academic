@@ -48,11 +48,18 @@ sections:
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Convener:
+              * Mechanics of Solids
+              * Computer Modelling Techniques
+              * Stress Analysis Techniques
 
-              * Designing
-              * Modelling
-              * Deploying
+              I have also been involved with the following modules:
+
+              *  Engineering Design and Design Project (Year 1)
+              *  Design, Manufacture & Project (Year 2)
+              *  Additive Manufacturing & 3D Printing (Senior UG)
+
+
         - title: Professor of Semiconductor Materials
           company: University X
           company_url: ''
