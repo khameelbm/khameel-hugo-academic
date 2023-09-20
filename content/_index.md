@@ -44,9 +44,9 @@ sections:
           company: University of Nottingham Malaysia
           company_url: 'https://www.nottingham.edu.my/index.aspx'
           company_logo: org-gc
-          location: Malaysia
-          # date_start: '2016-01-16'
-          # date_end: ''
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
