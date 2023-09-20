@@ -43,8 +43,8 @@ sections:
         - title: Associate Professor
           company: University of Nottingham Malaysia
           company_url: 'https://www.nottingham.edu.my/index.aspx'
-          company_logo: org-UNM
-          location: California
+          company_logo: org-unm
+          location: Malaysia
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
