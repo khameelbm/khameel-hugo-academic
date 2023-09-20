@@ -45,7 +45,7 @@ sections:
           company_url: 'https://www.nottingham.edu.my/index.aspx'
           company_logo: org-unm
           location: Malaysia
-          date_start: '2021-01-01'
+          date_start: '2016'
           date_end: ''
           description: |2-
             I am the convener for the following modules: 
@@ -54,7 +54,7 @@ sections:
               * Computer Modelling Techniques (Year 3 - Core)
               * Stress Analysis Techniques (Senior UG - optional) 
 
-            I have also been involved with the following modules:\t
+            I have also been involved with the following modules:
 
               *  Engineering Design and Design Project (Year 1)
               *  Design, Manufacture & Project (Year 2)
