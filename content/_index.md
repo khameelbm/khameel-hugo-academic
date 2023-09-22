@@ -75,8 +75,8 @@ sections:
           # description: Taught electronic engineering and researched semiconductor physics.
  
 
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
   # - block: collection
   #   id: posts
   #   content:
@@ -143,7 +143,7 @@ sections:
   #       {{< gallery album="demo" >}}
 
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: featured
     content:
