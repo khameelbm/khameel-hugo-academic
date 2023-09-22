@@ -48,7 +48,7 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
           description: |2-
-            Convener/contributors to the following modules: 
+            Convener/contributor to the following modules: 
 
               * Mechanics of Solids (Year 2 - Core)
               * Computer Modelling Techniques (Year 3 - Core)
@@ -170,12 +170,12 @@ sections:
       filters:
         folders:
           - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
+  #   design:
+  #     columns: '2'
+  #     view: compact
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
     design:
       columns: '2'
   - block: contact
