@@ -162,6 +162,11 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+
+         text: |-
+        {{% callout note %}}
+        For a full list of my publication, check  [google scholar](https://scholar.google.com/citations?hl=en&user=P8kaM2UAAAAJ&view_op=list_works&sortby=pubdate).
+        {{% /callout %}}
       filters:
         folders:
           - publication
