@@ -2,7 +2,9 @@
 title: "Techno-environmental analysis of material substitution in thermoelectric modules"
 authors:
 - T Ibn-Muhammed
+- SCL Koh
 - admin
+- et al.
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
