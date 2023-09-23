@@ -1,8 +1,8 @@
 ---
-title: "Techno-environmental analysis of material substitution in thermoelectric modules: non-oxide (bismuth telluride alloys) vs. oxide-based (lanthanum-doped strontium titanate and calcium cobaltite) materials"
-# authors:
-# - admin
-# - Robert Ford
+title: "Techno-environmental analysis of material substitution in thermoelectric modules"
+authors:
+- T Ibn-Muhammed
+- admin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
