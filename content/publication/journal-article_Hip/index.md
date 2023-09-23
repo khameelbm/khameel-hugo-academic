@@ -1,17 +1,12 @@
 ---
-title: "Techno-environmental analysis of material substitution in thermoelectric modules"
+title: "Finite element and multivariate random forests modelling for stress shield attenuation in customized hip implants"
 authors:
 - Merna Ehab Shehata
 - admin
 - EM Shehata
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+
 date: "2023-02-01"
 doi: "https://doi.org/10.1016/j.finmec.2022.100151"
-
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,10 +33,3 @@ image:
 
 ---
 
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}} -->
-
-
-
-<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
