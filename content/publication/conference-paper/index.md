@@ -1,23 +1,21 @@
 ---
-title: 'An example conference paper'
+title: '3D printing of polyvinylidene fluoride composite films with enhanced electroactive beta-phase for flexible wearable pressure sensors'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Metwalli Khaled Mohamed 
+  - Abakr Yousif
+  - Ab Aziz Bin Baharuddin
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-07-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
