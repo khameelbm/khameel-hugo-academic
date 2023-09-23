@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Khameel Mustapha
+title: KB Mustapha
 
 # Full name (for SEO)
 first_name: Khameel
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Khameel Mustapha is associate professor of mechanical engineering at the University of Nottingham Malaysia. His primary research interest gears towards mechanics and modelling of microscale structures, but his wider interest encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, biological structures, energy materials, additively manufactured components).
+Khameel (pronounced - Kameel) Mustapha is associate professor of mechanical engineering at the University of Nottingham Malaysia. His primary research interest gears towards mechanics and modelling of microscale structures, but his wider interest encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, biological structures, energy materials, additively manufactured components).
 {style="text-align: justify;"}
