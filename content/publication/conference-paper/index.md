@@ -7,12 +7,12 @@ title: '3D printing of polyvinylidene fluoride composite films with enhanced ele
 authors:
   - admin
   - Metwalli Khaled Mohamed 
-  - Ab Aziz Bin Baharuddin
   - Abakr Yousif
+  - Ab Aziz Bin Baharuddin
 
 
 date: '2022-07-01'
-doi: 'https://doi.org/10.1016/j.matpr.2022.09.245'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -35,8 +35,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: Custom Link
-   url: https://www.sciencedirect.com/science/article/abs/pii/S2214785322060527
+# - name: Custom Link
+#   url: https://www.sciencedirect.com/science/article/abs/pii/S2214785322060527
 
 # url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
@@ -70,7 +70,7 @@ image:
 # slides: example
 ---
 
-<!-- {{% callout note %}}
+{{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -78,4 +78,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
