@@ -161,7 +161,7 @@ sections:
       text: |-
 
         {{% callout note %}}
-        For a full list of my publication, check  [google scholar](https://scholar.google.com/citations?hl=en&user=P8kaM2UAAAAJ&view_op=list_works&sortby=pubdate).
+         Check [Google Scholar](https://scholar.google.com/citations?hl=en&user=P8kaM2UAAAAJ&view_op=list_works&sortby=pubdate) for the full list of my publications. 
         {{% /callout %}}
 
         {{% callout note %}}
