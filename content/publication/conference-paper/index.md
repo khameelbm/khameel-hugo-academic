@@ -12,7 +12,7 @@ authors:
 
 
 date: '2022-07-01'
-doi: ''
+doi: 'https://doi.org/10.1016/j.finmec.2022.100151'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
