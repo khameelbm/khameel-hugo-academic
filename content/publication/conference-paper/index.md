@@ -35,7 +35,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
+ - name: Custom Link
    url: https://www.sciencedirect.com/science/article/abs/pii/S2214785322060527
 
 # url_pdf: ''
