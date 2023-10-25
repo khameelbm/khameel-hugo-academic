@@ -89,5 +89,15 @@ email: ''
 highlight_name: true
 ---
 
-I am an Associate Professor of mechanical engineering at the University of Nottingham Malaysia. My primary research interest gears towards mechanics and modelling of microscale structures, but I have wider interest that encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, biological structures, energy materials, additively manufactured components).
+<!-- I am an Associate Professor of mechanical engineering at the University of Nottingham Malaysia. My primary research interest gears towards mechanics and modelling of microscale structures, but I have wider interest that encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, biological structures, energy materials, additively manufactured components). -->
+My research is dedicated to issues at the interface of structural mechanics, advanced materials, and additive manufacturing. It broadly covers the area of Computational Structural Analysis, Mechanics of Sustainable and Functional Materials, and Polymer-based 3D Printing. 
+Concretely, the overarching objective of my research centres around developing robust computational models, efficient computational solutions and experimental structural assessment towards uncovering load-bearing capacity, strength limit, dynamic failure modes, and stimuli-responsiveness of mechanical, bio-based/energy systems. 
+Specific applications of my research connect to the development of lightweight composite aerospace/automotive parts, flexible sensors based on piezoelectric polymers and thermoelectric materials, and biomedical devices such as stents and hip implants. Expertise includes the following: 
+- Industrial-scale linear/non-linear finite element simulations
+- High-performance data-driven machine-learning techniques
+- Polymer-based additive manufacturing of structural and functional devices
+- Mathematical modelling of advanced materials
+- Dynamic fatigue failure assessment and fracture analysis
+- R programming for statistical analysis and design of experiment
+
 {style="text-align: justify;"}
