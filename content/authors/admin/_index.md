@@ -90,7 +90,8 @@ highlight_name: true
 ---
 
 <!-- I am an Associate Professor of mechanical engineering at the University of Nottingham Malaysia. My primary research interest gears towards mechanics and modelling of microscale structures, but I have wider interest that encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, biological structures, energy materials, additively manufactured components). -->
-My research is dedicated to issues at the interface of computational structural mechanics, advanced materials, and additive manufacturing. 
+<div style='text-align: right;'>
+  My research is dedicated to issues at the interface of computational structural mechanics, advanced materials, and additive manufacturing. 
 
 
 It broadly covers the areas of computational structural analysis, mechanics of sustainable/functional materials, and polymer-based 3D Printing. 
@@ -104,5 +105,8 @@ Specific applications of my research connect to the development of lightweight c
 - Mathematical modelling of advanced materials
 - Dynamic fatigue failure assessment and fracture analysis
 - R programming for statistical analysis and design of experiment
+</div>
+
+
 
 {style="text-align: justify;"}
