@@ -98,7 +98,10 @@ It broadly covers the areas of computational structural analysis, mechanics of s
 
 
 Concretely, the overarching objective of my research centres around developing robust computational models, efficient computational solutions and experimental structural assessment towards uncovering load-bearing capacity, strength limit, dynamic failure modes, and stimuli-responsiveness of mechanical, bio-based/energy systems. 
-Specific applications of my research connect to the development of lightweight composite aerospace/automotive parts, flexible sensors based on piezoelectric polymers and thermoelectric materials, and biomedical devices such as stents and hip implants. Expertise includes the following: 
+Specific applications of my research connect to the development of lightweight composite aerospace/automotive parts, flexible sensors based on piezoelectric polymers/ thermoelectric materials, and biomedical devices. 
+
+
+Expertise includes the following: 
 - Industrial-scale linear/non-linear finite element simulations
 - High-performance data-driven machine-learning techniques
 - Polymer-based additive manufacturing of structural and functional devices
