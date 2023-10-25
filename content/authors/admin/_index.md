@@ -33,7 +33,7 @@ interests:
   - Additive manufacturing
 
 # Professional skills to show in About widget
-Professional Skills:
+professional skills:
   - Finite element analysis (in-house code/ANSYS)
   - TensorFlow/Keras
   - R programming
