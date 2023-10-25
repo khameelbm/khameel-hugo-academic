@@ -32,7 +32,7 @@ interests:
   - Functional materials
   - Additive manufacturing
 
-# Professional Skills
+# Professional skills to show in About widget
 Professional Skills:
   - Finite element analysis (in-house code/ANSYS)
   - TensorFlow/Keras
