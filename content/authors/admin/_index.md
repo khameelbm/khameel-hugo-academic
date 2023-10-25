@@ -90,7 +90,7 @@ highlight_name: true
 ---
 
 <!-- I am an Associate Professor of mechanical engineering at the University of Nottingham Malaysia. My primary research interest gears towards mechanics and modelling of microscale structures, but I have wider interest that encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, biological structures, energy materials, additively manufactured components). -->
-<div style='text-align: right;'>
+<div style='text-align: justify;'>
   My research is dedicated to issues at the interface of computational structural mechanics, advanced materials, and additive manufacturing. 
 
 
