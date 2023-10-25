@@ -27,19 +27,19 @@ bio: My research interests include computational mechanics, advanced structural 
 # Interests to show in About widget
 interests:
   - Computational mechanics
-  - Structural analysis of medical devices
   - Sustainable structural materials
   - Functional materials
+  - Structural analysis of medical devices
   - Additive manufacturing
 
 # Professional skills to show in About widget
-professional skills:
-  - Finite element analysis (in-house code/ANSYS)
-  - TensorFlow/Keras
-  - R programming
-  - Python programming
-  - SOLIDWORKS modelling
-  - Applied machine learning
+# professional skills:
+#   - Finite element analysis (in-house code/ANSYS)
+#   - TensorFlow/Keras
+#   - R programming
+#   - Python programming
+#   - SOLIDWORKS modelling
+#   - Applied machine learning
   
 
 # Education to show in About widget
