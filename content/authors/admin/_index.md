@@ -91,14 +91,13 @@ highlight_name: true
 
 <!-- I am an Associate Professor of mechanical engineering at the University of Nottingham Malaysia. My primary research interest gears towards mechanics and modelling of microscale structures, but I have wider interest that encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, biological structures, energy materials, additively manufactured components). -->
 <div style='text-align: justify;'>
-  My research is dedicated to issues at the interface of computational structural mechanics, advanced materials, and additive manufacturing. 
+  Dr Khameel B. Mustapha is currently an Associate Professor with the Department of Mechanical, Materials and Manufacturing Engineering, University of Nottingham (Malaysia). Before joining the University of Nottingham, he held a faculty position with the Swinburne University of Technology (Sarawak). He is a Fellow of the Higher Education Academy (UK) and a member of the American Society of Mechanical Engineers. He has accumulated more than 10 years of experience in professional/academic R&D and teaching activities.
 
 
-It broadly covers the areas of computational structural analysis, mechanics of sustainable/functional materials, and polymer-based 3D Printing. 
+He has authored extensive scholarly publications in areas of mechanics of micro/nano structures, mechanics of smart/functional materials, sustainable composite materials, and additive manufacturing. He also is the author of three books published in 2018, 2019, 2022, respectively: Finite Element Computations in Mechanics with R (Taylor and Francis), R for Finite Element Analyses of Size-dependent Microscale Structures (Springer) and Practical Finite Element Simulations with SOLIDWORKS 2022 (Packt Publishing Company UK). 
 
 
-Concretely, the overarching objective of my research centres around developing robust computational models, efficient computational solutions and experimental structural assessment towards uncovering load-bearing capacity, strength limit, dynamic failure modes, and stimuli-responsiveness of mechanical, bio-based/energy systems. 
-Specific applications of my research connect to the development of lightweight composite aerospace/automotive parts, flexible sensors based on piezoelectric polymers/ thermoelectric materials, and biomedical devices. 
+Concretely, the overarching objective of his research centres around developing robust computational models, efficient computational solutions and experimental structural assessment towards uncovering load-bearing capacity, strength limit, dynamic failure modes, and stimuli-responsiveness of mechanical, bio-based/energy systems. Specific applications of his research connect to the development of lightweight composite aerospace/automotive parts, flexible sensors based on piezoelectric polymers and thermoelectric materials, and biomedical devices such as stents and hip implants. 
 
 
 Expertise includes the following: 
@@ -107,7 +106,8 @@ Expertise includes the following:
 - Polymer-based additive manufacturing of structural and functional devices
 - Mathematical modelling of advanced materials
 - Dynamic fatigue failure assessment and fracture analysis
-- R programming for statistical analysis and design of experiment
+- R and Python programming for data-driven analysis and applied machine learning
+
 </div>
 
 
