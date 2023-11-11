@@ -89,7 +89,9 @@ email: ''
 highlight_name: true
 ---
 
-<div style='text-align: justify;'>
+
+<div style="text-align: justify">
+
 Dr Khameel B. Mustapha is currently an Associate Professor with the Department of Mechanical, Materials and Manufacturing Engineering, University of Nottingham (Malaysia). Before joining the University of Nottingham, he held a faculty position with the Swinburne University of Technology (Sarawak). He is a Fellow of the Higher Education Academy (UK) and a member of the American Society of Mechanical Engineers. 
 
 He has accumulated more than 10 years of experience in professional/academic research and teaching activities.
@@ -97,4 +99,4 @@ He has authored extensive scholarly publications in the areas mechanics of smart
 
 Concretely, the overarching objective of his research centres around developing robust computational models, efficient computational solutions and experimental assessment towards uncovering load-bearing capacity, strength limit, dynamic failure modes, and stimuli-responsiveness of mechanical, bio-based/energy systems. Specific applications of his research connect to the development of lightweight composite aerospace/automotive parts, flexible sensors based on piezoelectric polymers/thermoelectric materials, and biomedical devices such as stents and hip implants.
 
-{style="text-align: justify;"}
+
