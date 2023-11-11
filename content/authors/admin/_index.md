@@ -99,4 +99,14 @@ He has authored extensive scholarly publications in the areas mechanics of smart
 
 Concretely, the overarching objective of his research centres around developing robust computational models, efficient computational solutions and experimental assessment towards uncovering load-bearing and stimuli response capacities, strength limit, dynamic failure of mechanical, bio-based and energy systems. Specific applications of his research connect to the development of lightweight composite parts, flexible devices based on piezoelectric polymers/thermoelectric materials, and biomedical devices such as stents and hip implants.
 
+Expertise includes the following:
+ 
+ - Mathematical modelling of advanced materials
+ - Industrial-scale finite element analysis (linear/nonlinear)
+ - Applied machine learning for data-driven analysis
+ - Polymer-based additive manufacturing of structural and functional devices
+ - Fatigue failure assessment and fracture analysis
+ - R and Python programming for data-driven analysis 
+
+
 
