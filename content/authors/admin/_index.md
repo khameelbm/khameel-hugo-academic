@@ -90,9 +90,10 @@ highlight_name: true
 ---
 
 <div style='text-align: justify;'>
-Dr Khameel B. Mustapha is currently an Associate Professor with the Department of Mechanical, Materials and Manufacturing Engineering, University of Nottingham (Malaysia). Before joining the University of Nottingham, he held a faculty position with the Swinburne University of Technology (Sarawak). He is a Fellow of the Higher Education Academy (UK) and a member of the American Society of Mechanical Engineers. He has accumulated more than 10 years of experience in professional/academic research and teaching activities.
+Dr Khameel B. Mustapha is currently an Associate Professor with the Department of Mechanical, Materials and Manufacturing Engineering, University of Nottingham (Malaysia). Before joining the University of Nottingham, he held a faculty position with the Swinburne University of Technology (Sarawak). He is a Fellow of the Higher Education Academy (UK) and a member of the American Society of Mechanical Engineers. 
 
-He has authored extensive scholarly publications in the areas of mechanics of micro/nanostructures, mechanics of smart/functional materials, sustainable composite materials, and additive manufacturing. He is the author of three books published in 2018, 2019, and 2022, respectively: Finite Element Computations in Mechanics with R (Taylor and Francis), R for Finite Element Analyses of Size-dependent Microscale Structures (Springer) and Practical Finite Element Simulations with SOLIDWORKS 2022 (Packt Publishing Company UK).
+He has accumulated more than 10 years of experience in professional/academic research and teaching activities.
+He has authored extensive scholarly publications in the areas mechanics of smart/functional materials, sustainable composite materials, and additive manufacturing. He is the author of three books published in 2018, 2019, and 2022, respectively: Finite Element Computations in Mechanics with R (Taylor and Francis), R for Finite Element Analyses of Size-dependent Microscale Structures (Springer) and Practical Finite Element Simulations with SOLIDWORKS 2022 (Packt Publishing Company UK).
 
 
 {style="text-align: justify;"}
