@@ -102,8 +102,10 @@ Dr Khameel B. Mustapha is currently an Associate Professor with the Department o
 
 He has accumulated years of experience in professional/academic research and teaching activities.
 He has authored extensive scholarly publications in the areas mechanics of smart/functional materials, sustainable composite materials, and additive manufacturing. He is the author of three books published in 2018, 2019, and 2022, respectively: Finite Element Computations in Mechanics with R (Taylor and Francis), R for Finite Element Analyses of Size-dependent Microscale Structures (Springer) and Practical Finite Element Simulations with SOLIDWORKS 2022 (Packt Publishing Company UK).
+<a href="https://tidymodels.org" target="_blank" rel="noopener">tidymodels.org</a>
 
-Concretely, the overarching objective of his research centres around developing robust computational models/solutions and experimental assessments towards optimizing the properties and performance of mechanical, bio-based and energy systems. Specific applications of his research connect to the development of lightweight composite parts, flexible devices based on piezoelectric polymers/thermoelectric materials, and biomedical devices such as stents and hip implants.
+
+Concretely, the overarching objective of his research centres around developing robust computational models/solutions and experimental assessments towards optimizing the properties and performance of mechanical, bio-based and energy-related systems. Specific applications of his research connect to the development of lightweight composite parts, flexible devices based on piezoelectric polymers/thermoelectric materials, and biomedical devices such as stents and hip implants. 
 
 Expertise includes the following:
  
