@@ -110,6 +110,7 @@ Concretely, the overarching objective of his research centres around developing 
 Expertise includes the following:
  
  - Mathematical modelling of advanced materials
+ - Structural analysis 
  - Industrial-scale finite element analysis (linear/nonlinear)
  - Applied machine learning 
  - Polymer-based additive manufacturing of structural and functional devices
