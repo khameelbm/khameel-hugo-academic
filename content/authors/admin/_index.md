@@ -51,9 +51,12 @@ education:
     - course: BEng (Hons) in Mechanical Engineering
       institution: University of Ilorin
 #      year: 2008
-    - course: GCLT in Higher Education
+    - course: GCLT (Higher Education)
       institution: Swinburne University of Technology (Australia)
 #      year: 2015
+    - course: PGCHE 
+      institution: University of Nottingham 
+#      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
