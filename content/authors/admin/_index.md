@@ -28,7 +28,7 @@ bio: My research interests include computational mechanics, advanced structural 
 interests:
   - Computational mechanics
   - Sustainable structural materials
-  - Functional materials
+  - Functional materials for smart devices
   - Structural analysis of medical devices
   - Additive manufacturing
 
