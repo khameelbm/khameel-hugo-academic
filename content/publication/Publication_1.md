@@ -12,5 +12,5 @@ tags: ["Composite Films", "Design of Experiments"]
 url_pdf: ""
 doi: "https://doi.org/10.1080/14484846.2024.2399381"
 featured: false
-url: "https://www.tandfonline.com/doi/full/10.1080/14484846.2024.2399381"
+url_: "https://www.tandfonline.com/doi/full/10.1080/14484846.2024.2399381"
 ---
