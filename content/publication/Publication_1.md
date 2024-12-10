@@ -9,8 +9,8 @@ publication: "*Australian Journal of Mechanical Engineering*"
 publication_short: "*Aust. J. Mech. Eng.*"
 abstract: ""
 tags: ["Composite Films", "Design of Experiments"]
-url: "https://doi.org/10.1080/14484846.2024.2399381"
 url_pdf: ""
 doi: "https://doi.org/10.1080/14484846.2024.2399381"
 featured: false
+url: "https://www.tandfonline.com/doi/full/10.1080/14484846.2024.2399381"
 ---
