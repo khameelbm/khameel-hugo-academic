@@ -4,6 +4,7 @@ authors:
   - K. Metwalli
   - K.B. Mustapha
 date: 2024-01-01
+year: 2024
 publication: "*Australian Journal of Mechanical Engineering*"
 publication_short: "*Aust. J. Mech. Eng.*"
 abstract: ""
