@@ -27,7 +27,7 @@ bio: My research interests include computational mechanics, advanced structural 
 # Interests to show in About widget
 interests:
   - Computational mechanics
-  - Applied machine learning
+  - Applied machine learning (PyTorch/TensorFlow/Keras)
   - Sustainable structural materials
   - Functional materials for smart devices
   - Structural analysis of medical devices
