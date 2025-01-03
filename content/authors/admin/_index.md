@@ -27,7 +27,7 @@ bio: My research interests include computational mechanics, advanced structural 
 # Interests to show in About widget
 interests:
   - Computational mechanics
-  - Applied machine learning (PyTorch/TensorFlow/Keras)
+  - Applied machine learning
   - Sustainable structural materials
   - Functional materials for smart devices
   - Structural analysis of medical devices
@@ -106,16 +106,16 @@ He has authored extensive scholarly publications in the areas mechanics of smart
 
 
 
-Concretely, the overarching objective of his research centres around developing robust computational models/solutions and experimental assessments towards optimizing the properties and performance of mechanical, bio-based and energy-related systems. Specific applications of his research connect to the development of lightweight composite parts, flexible devices based on piezoelectric polymers/thermoelectric materials, and biomedical devices such as stents and hip implants. 
+Concretely, the overarching objective of his research centres around developing robust computational models/solutions and experimental assessments towards optimizing the properties and performance of mechanical, bio-based and energy-related systems. Specific applications of his research connect to the development of lightweight composite parts, flexible devices based on functional materials (e.g. piezoelectric polymers/thermoelectric materials), and biomedical devices such as stents and hip implants. 
 
 Expertise includes the following:
  
  - Mathematical modelling of advanced materials
  - Structural analysis 
  - Industrial-scale finite element analysis (linear/nonlinear)
- - Applied machine learning 
+ - Applied machine learning (PyTorch/TensorFlow/Keras)
  - Polymer-based additive manufacturing of structural and functional devices
- - Fatigue failure assessment and fracture analysis
+ - Fatigue failure assessment and fracture analyses
  - R and Python programming for data-driven analyses 
 
 
